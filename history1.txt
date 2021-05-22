@@ -1,0 +1,32 @@
+   80  ls
+   81  git branch
+   82  git checkout feature/test
+   83  git checkout test
+   84  ls
+   85  git status
+   86  clear
+   87  git checkout -b feature/test
+   88  ls
+   89  vi test.txt
+   90  git status
+   91  git add .
+   92  git commit -a -m "Feature Test"
+   93  git push origin feature/test
+   94  git log
+   95  git show 948b
+   85  git status
+   86  clear
+   87  git checkout -b feature/test
+   88  ls
+   89  vi test.txt
+   90  git status
+   91  git add .
+   92  git commit -a -m "Feature Test"
+   93  git push origin feature/test
+   94  git log
+   95  git show 948b
+   96  history >> history1.sh
+   97  chmod +x history.sh
+   98  vi history1.sh
+   99  mv history1.sh history1.txt
+  100  vi history1.txt
